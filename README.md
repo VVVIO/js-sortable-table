@@ -1,11 +1,11 @@
 js-sortable-table
 =================
 
-The script creates a table with columns: title, description, duration and uploaded and loads data from a youtube json file.
+The script creates a table with the columns: title, description, duration, uploaded and displays videos information loaded from a youtube json file. The first 4th columns are sortable and the last one contains a button which when pressed scroll down to the end of table and display the 'thumbnail-hq' image of the video.
 
 # Usage
 
-Load the script in the html file:
+Load the script in the html file, at the end of body:
 
 ```html
 <!DOCTYPE html>

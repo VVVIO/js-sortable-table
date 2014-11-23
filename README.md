@@ -7,6 +7,7 @@ The script creates a table with columns: title, description, duration and upload
 
 Load the script in the html file:
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,5 +20,5 @@ Load the script in the html file:
     <script src="js/script.js"></script>
 </body>
 </html>
-
+```
 

@@ -24,3 +24,7 @@ Load the script in the html file, at the end of body:
 </html>
 ```
 
+# Demo
+
+http://vvvio.github.io/js-sortable-table/
+

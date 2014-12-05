@@ -1,0 +1,40 @@
+html {
+    font-family: verdana, helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.list {
+    border-collapse: collapse;
+}
+
+.list td {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.list tr:nth-child(even) {
+    background-color: #eaffdd;
+}
+
+.list th {
+    background-color: #888;
+    color: #fff;
+    padding: 10px 5px;
+    text-align: left;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.arrow {
+    height: 0;
+    width: 0;
+    border: 6px solid transparent;
+    float: right;
+    margin: 0 5px;
+}
+.arrow.up {
+    border-bottom-color: #00ee00;
+}
+.arrow.down {
+    border-top-color: #00ee00;
+}
